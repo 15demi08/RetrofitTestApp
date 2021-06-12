@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RetrofitTestApp</string>
+    <string name="txtCEP">CEP</string>
+    <string name="btnSearchCEP">Consultar CEP</string>
+    <string name="lblAddress">Dados Encontrados:</string>
+</resources>
